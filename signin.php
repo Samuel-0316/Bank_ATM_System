@@ -164,11 +164,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             Password: <input type="password" name="pswd" required><br><br>
             <input type="submit" value="Sign In">
         </form>
-        <a href="home.php">Back to Home</a>
+        <a href="home.php">Back To Home</a>
     </div>
 
     <footer class="share-tech-mono-regular">
-        &copy; <?php echo date("Y"); ?> Bank Website. All rights reserved.
+        &copy; <?php echo date("Y"); ?> Bank Website. All rights reserved 2024.
     </footer>
 </body>
 </html>
